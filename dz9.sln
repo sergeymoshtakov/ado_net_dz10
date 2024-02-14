@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz9", "dz9\dz9.csproj", "{B4BF0529-7D8A-41BF-8E57-73CF5AABFE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMiddlewareLibrary", "MyMiddlewareLibrary\MyMiddlewareLibrary.csproj", "{3F4FF952-51C4-4A54-BC66-DDE1E37C256E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BF0529-7D8A-41BF-8E57-73CF5AABFE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BF0529-7D8A-41BF-8E57-73CF5AABFE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BF0529-7D8A-41BF-8E57-73CF5AABFE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BF0529-7D8A-41BF-8E57-73CF5AABFE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4FF952-51C4-4A54-BC66-DDE1E37C256E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4FF952-51C4-4A54-BC66-DDE1E37C256E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4FF952-51C4-4A54-BC66-DDE1E37C256E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4FF952-51C4-4A54-BC66-DDE1E37C256E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5E2310-CFD5-4181-86B9-2D11DF173996}
+	EndGlobalSection
+EndGlobal
